@@ -1,0 +1,3 @@
+/g/g90/dhakal1/.local/lib/python3.9/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+slurmstepd: error: *** JOB 225277 ON oslic18 CANCELLED AT 2024-07-25T10:21:21 ***
